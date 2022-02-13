@@ -31,7 +31,7 @@ print(inverse)
 
 ## OUTPUT:
 
-![copy](./c1.png)
+![csv](c1.png)
 
 ## RESULT:
 Thus the aboveprogram is written to read the CSV file.
